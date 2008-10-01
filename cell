@@ -1,0 +1,23 @@
+processor       : 0
+cpu             : Cell Broadband Engine, altivec supported
+clock           : 3200.000000MHz
+revision        : 5.1 (pvr 0070 0501)
+
+processor       : 1
+cpu             : Cell Broadband Engine, altivec supported
+clock           : 3200.000000MHz
+revision        : 5.1 (pvr 0070 0501)
+
+processor       : 2
+cpu             : Cell Broadband Engine, altivec supported
+clock           : 3200.000000MHz
+revision        : 5.1 (pvr 0070 0501)
+
+processor       : 3
+cpu             : Cell Broadband Engine, altivec supported
+clock           : 3200.000000MHz
+revision        : 5.1 (pvr 0070 0501)
+
+timebase        : 14318000
+platform        : Cell
+machine         : CHRP IBM,0200-250

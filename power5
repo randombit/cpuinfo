@@ -1,0 +1,43 @@
+processor       : 0
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 1
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 2
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 3
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 4
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 5
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 6
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+processor       : 7
+cpu             : POWER5+ (gs)
+clock           : 1900.098000MHz
+revision        : 2.1 (pvr 003b 0201)
+
+timebase        : 237331000
+platform        : pSeries
+machine         : CHRP IBM,9133-55A
