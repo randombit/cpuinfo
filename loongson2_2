@@ -1,0 +1,15 @@
+system type             : lemote-notebook
+processor               : 0
+cpu model               : ICT Loongson-2 V0.3  FPU V0.1
+BogoMIPS                : 522.24
+wait instruction        : yes
+microsecond timers      : yes
+tlb_entries             : 64
+extra interrupt vector  : no
+hardware watchpoint     : no
+ASEs implemented        :
+shadow register sets    : 1
+core                    : 0
+VCED exceptions         : not available
+VCEI exceptions         : not available
+
