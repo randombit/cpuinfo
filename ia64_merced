@@ -1,0 +1,16 @@
+processor  : 0
+vendor     : GenuineIntel
+arch       : IA-64
+family     : 7
+model      : 0
+model name : Merced
+revision   : 6
+archrev    : 0
+features   : standard
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 733.458
+itc MHz    : 733.458000
+BogoMIPS   : 731.13
+siblings   : 1
+
