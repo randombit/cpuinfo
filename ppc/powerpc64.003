@@ -1,0 +1,9 @@
+processor       : 0
+cpu             : POWER3 (630+)
+clock           : 333.000000MHz
+revision        : 1.4 (pvr 0041 0104)
+
+timebase        : 95140343
+platform        : pSeries
+machine         : CHRP IBM,7044-170
+

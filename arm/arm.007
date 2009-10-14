@@ -1,0 +1,7 @@
+processor : 0
+cpu : STB04xxx
+clock : 252MHz
+revision : 9.82 (pvr 4181 0952)
+bogomips : 250.88
+machine : Dream Multimedia TV Dreambox
+plb bus clock : 63MHz

@@ -1,0 +1,7 @@
+processor       : 0                                                                        
+cpu             : 740/750                                                                  
+temperature     : 24-35 C (uncalibrated)                                                   
+revision        : 131.2 (pvr 0008 8302)                                                    
+bogomips        : 732.36                                                                   
+vendor          : Motorola MCG                                                             
+machine         : Mesquite cPCI (MCP750)           

@@ -1,0 +1,16 @@
+processor       : 0
+cpu             : 740/750
+temperature     : 35-69 C (uncalibrated)
+clock           : 195MHz
+revision        : 3.0 (pvr 0008 0300)
+bogomips        : 600.06
+
+total bogomips  : 600.06
+machine         : Power Macintosh
+motherboard     : AAPL,7300 MacRISC
+detected as     : 16 (PowerMac 7200/7300)
+pmac flags      : 00000000
+memory          : 256MB
+l2cr override   : 0xf5000032
+pmac-generation : OldWorld
+

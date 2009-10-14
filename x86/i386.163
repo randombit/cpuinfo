@@ -1,0 +1,17 @@
+processor: 0
+vendor_id: ConnectixCPU
+cpu family: 6
+model: 8
+model name: ff/08
+stepping: 4
+cpu MHz: 250.050
+fdiv_bug: no
+hlt_bug: no
+f00f_bug: no
+coma_bug: no
+fpu: yes
+fpu_exception: yes
+cpuid level: 2
+wp: yes
+flags: fpu vme pse tsc msr pae mce cx8 pge cmov mmx
+bogomips: 333.41 

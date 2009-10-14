@@ -1,0 +1,106 @@
+cpu             : UltraSparc T1 (Niagara)
+fpu             : UltraSparc T1 integrated FPU
+prom            : OBP 4.19.0 2005/10/27 17:24
+type            : sun4v
+ncpus probed    : 32
+ncpus active    : 32
+D$ parity tl1   : 0
+I$ parity tl1   : 0
+Cpu0Bogo        : 2001.08
+Cpu0ClkTck      : 000000003b9aca00
+Cpu1Bogo        : 2000.02
+Cpu1ClkTck      : 000000003b9aca00
+Cpu2Bogo        : 2000.02
+Cpu2ClkTck      : 000000003b9aca00
+Cpu3Bogo        : 2000.01
+Cpu3ClkTck      : 000000003b9aca00
+Cpu4Bogo        : 2000.03
+Cpu4ClkTck      : 000000003b9aca00
+Cpu5Bogo        : 2000.03
+Cpu5ClkTck      : 000000003b9aca00
+Cpu6Bogo        : 2000.01
+Cpu6ClkTck      : 000000003b9aca00
+Cpu7Bogo        : 2000.02
+Cpu7ClkTck      : 000000003b9aca00
+Cpu8Bogo        : 2000.03
+Cpu8ClkTck      : 000000003b9aca00
+Cpu9Bogo        : 2000.03
+Cpu9ClkTck      : 000000003b9aca00
+Cpu10Bogo       : 2000.02
+Cpu10ClkTck     : 000000003b9aca00
+Cpu11Bogo       : 2000.02
+Cpu11ClkTck     : 000000003b9aca00
+Cpu12Bogo       : 2000.03
+Cpu12ClkTck     : 000000003b9aca00
+Cpu13Bogo       : 2000.02
+Cpu13ClkTck     : 000000003b9aca00
+Cpu14Bogo       : 2000.02
+Cpu14ClkTck     : 000000003b9aca00
+Cpu15Bogo       : 2000.02
+Cpu15ClkTck     : 000000003b9aca00
+Cpu16Bogo       : 2000.03
+Cpu16ClkTck     : 000000003b9aca00
+Cpu17Bogo       : 2000.02
+Cpu17ClkTck     : 000000003b9aca00
+Cpu18Bogo       : 2000.02
+Cpu18ClkTck     : 000000003b9aca00
+Cpu19Bogo       : 2000.02
+Cpu19ClkTck     : 000000003b9aca00
+Cpu20Bogo       : 2000.03
+Cpu20ClkTck     : 000000003b9aca00
+Cpu21Bogo       : 2000.02
+Cpu21ClkTck     : 000000003b9aca00
+Cpu22Bogo       : 2000.02
+Cpu22ClkTck     : 000000003b9aca00
+Cpu23Bogo       : 2000.02
+Cpu23ClkTck     : 000000003b9aca00
+Cpu24Bogo       : 2000.03
+Cpu24ClkTck     : 000000003b9aca00
+Cpu25Bogo       : 2000.02
+Cpu25ClkTck     : 000000003b9aca00
+Cpu26Bogo       : 2000.03
+Cpu26ClkTck     : 000000003b9aca00
+Cpu27Bogo       : 2000.02
+Cpu27ClkTck     : 000000003b9aca00
+Cpu28Bogo       : 2000.03
+Cpu28ClkTck     : 000000003b9aca00
+Cpu29Bogo       : 2000.02
+Cpu29ClkTck     : 000000003b9aca00
+Cpu30Bogo       : 2000.02
+Cpu30ClkTck     : 000000003b9aca00
+Cpu31Bogo       : 2000.02
+Cpu31ClkTck     : 000000003b9aca00
+MMU Type        : Hypervisor (sun4v)
+State:
+CPU0:           online
+CPU1:           online
+CPU2:           online
+CPU3:           online
+CPU4:           online
+CPU5:           online
+CPU6:           online
+CPU7:           online
+CPU8:           online
+CPU9:           online
+CPU10:          online
+CPU11:          online
+CPU12:          online
+CPU13:          online
+CPU14:          online
+CPU15:          online
+CPU16:          online
+CPU17:          online
+CPU18:          online
+CPU19:          online
+CPU20:          online
+CPU21:          online
+CPU22:          online
+CPU23:          online
+CPU24:          online
+CPU25:          online
+CPU26:          online
+CPU27:          online
+CPU28:          online
+CPU29:          online
+CPU30:          online
+CPU31:          online

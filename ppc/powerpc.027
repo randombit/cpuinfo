@@ -1,0 +1,12 @@
+processor       : 0
+cpu             : 7447A, altivec supported
+clock           : 1416.666661MHz
+revision        : 0.2 (pvr 8003 0102)
+bogomips        : 83.20
+timebase        : 41620997
+machine         : PowerMac10,1
+motherboard     : PowerMac10,1 MacRISC3 Power Macintosh
+detected as     : 287 (Mac mini)
+pmac flags      : 00000010
+L2 cache        : 512K unified
+pmac-generation : NewWorld 

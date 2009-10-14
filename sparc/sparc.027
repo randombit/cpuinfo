@@ -1,0 +1,14 @@
+cpu		: ROSS HyperSparc RT625 or RT626
+fpu		: ROSS HyperSparc combined IU/FPU
+promlib		: Version 3 Revision 2
+prom		: 2.25
+type		: sun4m
+ncpus probed	: 1
+ncpus active	: 1
+BogoMips	: 99.73
+MMU type	: ROSS HyperSparc
+invall		: 0
+invmm		: 0
+invrnge		: 0
+invpg		: 0
+contexts	: 4096

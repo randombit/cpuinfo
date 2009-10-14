@@ -1,0 +1,18 @@
+processor       : 0
+cpu family      : PA-RISC 1.1b
+cpu             : PA7100 (PCX-T)
+cpu MHz         : 99.000000
+model           : 9000/735
+model name      : Hardball (735/99)
+hversion        : 0x00002030
+sversion        : 0x00000481
+I-cache         : 256 KB
+D-cache         : 256 KB (WB)
+ITLB entries    : 120
+DTLB entries    : 120 - shared with ITLB
+BTLB fixed      : max. 16384 pages, pagesize=4096 (64MB)
+BTLB fix-entr.  : 0 instruction, 0 data (16 combined)
+BTLB var-entr.  : 0 instruction, 0 data (0 combined)
+bogomips        : 98.71
+software id     : 2007556484
+

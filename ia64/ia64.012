@@ -1,0 +1,27 @@
+processor  : 0
+vendor     : GenuineIntel
+arch       : IA-64
+family     : Itanium
+model      : 0
+revision   : 6
+archrev    : 0
+features   : standard
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 800.178000
+itc MHz    : 800.178000
+BogoMIPS   : 796.91
+
+processor  : 1
+vendor     : GenuineIntel
+arch       : IA-64
+family     : Itanium
+model      : 0
+revision   : 6
+archrev    : 0
+features   : standard
+cpu number : 0
+cpu regs   : 4
+cpu MHz    : 800.178000
+itc MHz    : 800.178000
+BogoMIPS   : 796.91

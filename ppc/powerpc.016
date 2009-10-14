@@ -1,0 +1,12 @@
+cpu             : 740/750
+temperature     : 26-28 C (uncalibrated)
+clock           : 400MHz
+revision        : 130.2 (pvr 0008 8202)
+bogomips        : 796.26
+machine         : PowerMac1,1
+motherboard     : PowerMac1,1 MacRISC Power Macintosh
+detected as     : 66 (Blue&White G3)
+pmac flags      : 00000000
+L2 cache        : 1024K unified
+memory          : 128MB
+pmac-generation : NewWorld

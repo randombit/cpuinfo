@@ -1,0 +1,6 @@
+cpu             : 745/755
+temperature     : 35-37 C (uncalibrated)
+clock           : 601MHz
+revision        : 51.17 (pvr 0008 3311)
+bogomips        : 1199.30
+machine         : CHRP Pegasos

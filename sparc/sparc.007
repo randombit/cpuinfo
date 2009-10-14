@@ -1,0 +1,15 @@
+cpu             : Texas Instruments, Inc. - MicroSparc
+fpu             : SuperSparc on-chip FPU
+promlib         : Version 3 Revision 2
+prom            : 2.22
+type            : sun4m
+ncpus probed    : 2
+ncpus active    : 2
+Cpu0Bogo        : 40.14
+Cpu1Bogo        : 40.24
+MMU type        : TI Viking/MXCC
+contexts        : 65536
+nocache total   : 5242880
+nocache used    : 469760
+CPU0            : online
+CPU1            : online 
