@@ -1,0 +1,28 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 15
+model		: 4
+model name	: Intel(R) Xeon(TM) CPU 3.20GHz
+stepping	: 10
+cpu MHz		: 3200.25
+fdiv_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm syscall mmxext fxsr_opt rdtscp lm 3dnow recovery longrun lrti cxmmx cyrix_arr centaur_mcr constant_tsc pni monitor ds_cpi vmx est tm2 cx16 
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 15
+model		: 4
+model name	: Intel(R) Xeon(TM) CPU 3.20GHz
+stepping	: 10
+cpu MHz		: 3200.29
+fdiv_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm syscall mmxext fxsr_opt rdtscp lm 3dnow recovery longrun lrti cxmmx cyrix_arr centaur_mcr constant_tsc pni monitor ds_cpi vmx est tm2 cx16 
+
